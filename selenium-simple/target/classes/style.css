@@ -1,0 +1,12 @@
+div {
+	height: 50px;
+	width: 250px;
+}
+
+#first {
+	background-color: grey;
+}
+
+.second {
+	background-color: red;
+}
